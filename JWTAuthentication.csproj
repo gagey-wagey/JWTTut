@@ -6,7 +6,7 @@
 
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.18" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="JWTAuthentication.Domain\JWTAuthentication.Domain.csproj">
